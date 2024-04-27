@@ -1,0 +1,13 @@
+prefix=D:/project finalized/venvf/Library
+exec_prefix=D:/project finalized/venvf/Library
+libdir=D:/project finalized/venvf/Library/lib
+sharedlibdir=D:/project finalized/venvf/Library/lib
+includedir=D:/project finalized/venvf/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
