@@ -2,6 +2,7 @@
 
 ## Overview
 The **Crop Recommendation and Yield Prediction System** is a machine learning-based application designed to assist farmers in making informed decisions about crop cultivation and yield forecasting. By analyzing input features like soil properties, climate conditions, and agronomic practices, the system provides accurate crop recommendations and yield predictions, helping farmers optimize productivity and sustainability.
+**Our Model can predict 125 crops there is no other model that can do that**
 
 ---
 
